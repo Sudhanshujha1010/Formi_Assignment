@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What are the operating hours?",
+      "answer": "Our restaurants are typically open from 12 PM to 3:30 PM for lunch and 6:30 PM to 11 PM for dinner. Specific locations may have slight variations."
+    },
+    {
+      "question": "Do you offer vegetarian options?",
+      "answer": "Yes, we offer a wide range of vegetarian options including grilled vegetables, paneer tikka, vegetable kebabs, and various vegetarian curries."
+    },
+    {
+      "question": "What is the average cost for two people?",
+      "answer": "The average cost for two people is approximately \u20b91600 to \u20b92000, depending on the location and any ongoing promotions."
+    },
+    {
+      "question": "Do you have any ongoing promotions?",
+      "answer": "We regularly run promotions like 'Kids Eat Free' on Sundays, corporate discounts, and special offers for birthday celebrations. Please check with the specific location for current promotions."
+    },
+    {
+      "question": "How can I make a reservation?",
+      "answer": "You can make a reservation through this chatbot, by calling the restaurant directly, or through our website and mobile app."
+    }
+  ]
+}

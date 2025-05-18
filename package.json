@@ -1,0 +1,17 @@
+{
+    "name": "barbeque-nation-chatbot",
+    "version": "1.0.0",
+    "description": "A conversational agent for Barbeque Nation",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "chatbot",
+      "barbeque-nation",
+      "conversation-agent"
+    ],
+    "author": "",
+    "license": "ISC"
+  }

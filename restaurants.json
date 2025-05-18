@@ -1,0 +1,92 @@
+{
+  "locations": [
+    {
+      "id": "bbq-delhi-cp",
+      "name": "Barbeque Nation - Connaught Place",
+      "city": "Delhi",
+      "address": "N-79, N Block, Connaught Place, New Delhi",
+      "phone": "011-12345678",
+      "capacity": 80,
+      "hours": {
+        "monday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "tuesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "wednesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "thursday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "friday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "saturday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "sunday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM"
+      },
+      "special_features": [
+        "Live Grill",
+        "Private Dining Area",
+        "Birthday Celebrations"
+      ]
+    },
+    {
+      "id": "bbq-delhi-saket",
+      "name": "Barbeque Nation - Saket",
+      "city": "Delhi",
+      "address": "3rd Floor, Select Citywalk Mall, Saket, New Delhi",
+      "phone": "011-23456789",
+      "capacity": 100,
+      "hours": {
+        "monday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "tuesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "wednesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "thursday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "friday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "saturday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "sunday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM"
+      },
+      "special_features": [
+        "Live Grill",
+        "Buffet",
+        "Kids Zone"
+      ]
+    },
+    {
+      "id": "bbq-bangalore-indiranagar",
+      "name": "Barbeque Nation - Indiranagar",
+      "city": "Bangalore",
+      "address": "1st Floor, 100 Feet Road, Indiranagar, Bangalore",
+      "phone": "080-12345678",
+      "capacity": 90,
+      "hours": {
+        "monday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "tuesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "wednesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "thursday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "friday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "saturday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "sunday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM"
+      },
+      "special_features": [
+        "Live Grill",
+        "Outdoor Seating",
+        "Corporate Events"
+      ]
+    },
+    {
+      "id": "bbq-bangalore-koramangala",
+      "name": "Barbeque Nation - Koramangala",
+      "city": "Bangalore",
+      "address": "67, 1st Floor, 80 Feet Road, Koramangala, Bangalore",
+      "phone": "080-23456789",
+      "capacity": 110,
+      "hours": {
+        "monday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "tuesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "wednesday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "thursday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "friday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "saturday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM",
+        "sunday": "12:00 PM - 3:30 PM, 6:30 PM - 11:00 PM"
+      },
+      "special_features": [
+        "Live Grill",
+        "Private Dining",
+        "Special Weekend Buffet"
+      ]
+    }
+  ]
+}
